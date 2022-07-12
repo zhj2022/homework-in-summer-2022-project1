@@ -1,0 +1,5 @@
+xstep = ystep = 1  ARI = 0.008180148846458537
+xstep = ystep = 2  ARI = 0.011449595368023216
+xstep = ystep = 3  ARI = 0.01846307830495413
+xstep = ystep = 4  ARI = 0.02073043439716128
+xstep = ystep = 5  ARI = 0.017135104469392183
