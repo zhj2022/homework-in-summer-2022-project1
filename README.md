@@ -1,6 +1,6 @@
 # homework-in-summer-2022
 -all the files and source code for homework in the summer semester 2022(project1)  
--this project is not successful, so the ultimate version of our project is  
+-this project is not successful, so the ultimate version of our project is https://github.com/zhj2022/poi-and-taxi-regression 
 
 # reference：
 -https://www.zhihu.com/question/421739858  
